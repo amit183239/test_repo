@@ -1,1 +1,2 @@
 - chore(affiliate): bump internal build metadata
+- chore(attribution): bump internal build metadata
