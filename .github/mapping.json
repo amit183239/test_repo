@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "affiliate-backend": "apps/affiliate/backend",
+    "affiliate-frontend": "apps/affiliate/frontend",
+    "affiliate-core": "libs/affiliate/core",
+    "attribution-api": "apps/attribution/api",
+    "attribution-worker": "apps/attribution/worker",
+    "edgetag-app-api": "apps/edgetag/app-api",
+    "edgetag-web": "apps/edgetag/web",
+    "ui-kit": "libs/ui-kit",
+    "analytics": "libs/analytics",
+    "evosearch": "apps/evosearch",
+    "checkout": "apps/checkout"
+  }
+}
