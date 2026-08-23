@@ -1,3 +1,4 @@
 - chore(affiliate): bump internal build metadata
 - chore(attribution): bump internal build metadata
 - chore(edgetag): bump internal build metadata
+- chore(evosearch): bump internal build metadata
